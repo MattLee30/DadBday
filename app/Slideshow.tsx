@@ -10,6 +10,7 @@ const images = [
   '/slideshow/img5.jpeg',
 ];
 
+
 export default function Slideshow() {
   const [current, setCurrent] = useState(0);
 
